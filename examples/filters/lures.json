@@ -1,0 +1,9 @@
+{
+	"pokestops":
+	{
+		"enabled": true,
+		"lured": true,
+		"lure_types": ["Normal", "Glacial", "Mossy", "Magnetic"],
+		"invasions": false
+	}
+}

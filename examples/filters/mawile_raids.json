@@ -1,0 +1,12 @@
+{
+	"raids":
+	{
+		"enabled": true,
+		"min_lvl": 1,
+		"max_lvl": 5,
+		"pokemon": [303],
+		"type": "Include",
+		"onlyEx": false,
+		"ignoreMissing": false
+	}
+}
